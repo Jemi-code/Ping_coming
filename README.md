@@ -8,7 +8,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 
 
 - Solution URL: [Solution](https://github.com/Jemi-code/Ping_coming)
-- Live Site URL: [Live site](https://jemi-code.github.io/Ping_coming)
+- Live Site URL: [Live site](https://jemi-code.github.io/Ping_coming/)
 
 ## My process
 

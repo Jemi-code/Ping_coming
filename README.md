@@ -4,7 +4,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 
 
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 
 - Solution URL: [Solution](https://github.com/Jemi-code/Ping_coming)
